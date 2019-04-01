@@ -1,4 +1,5 @@
-#Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
+# Write a program that asks the user for a number n and gives them the possibility to choose
+# between computing the sum and computing the product of 1,…,n.
 
 num=eval(input("Insert a number"))
 opt=eval(input("Type 1 if you want to multiply, 2 if you want to sum"))
